@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Review Ticket
+title: NO WAY WEEK 0 REVIEW!!!
 description: My summary of what I accomplished in week 0
 type: tangibles
 courses: { compsci: {week: 0} }
