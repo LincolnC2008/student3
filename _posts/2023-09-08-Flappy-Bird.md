@@ -3,7 +3,7 @@ toc: false
 comments: false
 layout: post
 title: Flappy Bird
-description: A Flappy bird like game made with chat gpt using html code
+description: This code sets up a basic Flappy Bird game where you control a bird by pressing any key. The bird jumps when a key is pressed, and obstacles move from right to left. The game checks for collisions with the obstacles, and the score increases each time an obstacle passes. When a collision occurs, an alert is shown displaying the score, and the game resets.
 type: hacks
 courses: { compsci: {week: 3} }
 ---
