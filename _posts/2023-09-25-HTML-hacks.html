@@ -1,0 +1,75 @@
+---
+toc: false
+comments: false
+layout: post
+title: HTML Hack
+description: false
+type: hacks
+courses: { compsci: {week: 5} }
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enhanced HTML Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .hidden-message {
+            display: none;
+            font-style: italic;
+        }
+
+        .break-example {
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .space-example {
+            font-weight: bold;
+        }
+
+        .placeholder-img {
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Enhanced HTML Example</h1>
+
+    <!-- Hidden Content -->
+    <div class="hidden-message">I love HTML code!</div>
+
+    <!-- Line Break Example -->
+    <p class="break-example">This is a line<br>break example.</p>
+
+    <!-- Non-Breaking Space Example -->
+    <p class="space-example">This&nbsp;is&nbsp;spaced&nbsp;text.</p>
+
+    <!-- Placeholder Image -->
+    <img class="placeholder-img" src="https://via.placeholder.com/150" alt="Placeholder Image">
+
+    <!-- Show Hidden Content Button -->
+    <button onclick="showHiddenMessage()">Show Hidden Message</button>
+
+    <script>
+        function showHiddenMessage() {
+            const hiddenMessage = document.querySelector('.hidden-message');
+            hiddenMessage.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
