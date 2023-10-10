@@ -8,7 +8,7 @@ type: plans
 courses: { compsci: {week: 6} }
 ---
 
-**Passion Project Plan: Multiplayer Fighting Game**
+**Passion Project Plan: Multiplayer Frog Fighting Game aka Frognite**
 
 **Purpose:**
 Our collective passion for game development has led us to embark on this project. Drawing from our modest but meaningful experience, we aim to create an engaging multiplayer fighting game that showcases our creativity and technical skills.
@@ -93,3 +93,7 @@ Expanded part of backend repo:
 10. **Deployment and Hosting Information:** We might include files related to deploying the backend on a server or cloud platform.
 
 Overall, the backend repository serves as the engine that powers your multiplayer fighting game. It manages the data, logic, and communication necessary to create a seamless gaming experience for our users. It's a pivotal part of our project's architecture and requires careful planning and organization.
+
+## Design so far
+
+![]({{site.baseurl}}/images/frog-game.jpg)
