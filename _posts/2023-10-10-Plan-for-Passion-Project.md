@@ -97,3 +97,6 @@ Overall, the backend repository serves as the engine that powers your multiplaye
 ## Design so far
 
 ![]({{site.baseurl}}/images/frog-game.jpg)
+
+## Flow Chart
+![]({{site.baseurl}}/images/Flow-Chart.jpg)
