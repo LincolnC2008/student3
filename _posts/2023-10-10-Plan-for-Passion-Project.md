@@ -45,6 +45,9 @@ At the onset of each week, we will convene for Scrum meetings. These sessions wi
 **Conclusion:**
 Our passion project aims not only to showcase our skills but also to provide an immersive gaming experience for players. Through meticulous planning, transparent communication, and diligent testing, we are committed to delivering a multiplayer fighting game that leaves a lasting impression.
 
+## Flow Chart
+![]({{site.baseurl}}/images/Flow-Chart.jpg)
+
 ————
 
 
@@ -97,6 +100,3 @@ Overall, the backend repository serves as the engine that powers your multiplaye
 ## Design so far
 
 ![]({{site.baseurl}}/images/frog-game.jpg)
-
-## Flow Chart
-![]({{site.baseurl}}/images/Flow-Chart.jpg)
