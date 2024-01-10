@@ -64,7 +64,7 @@ courses: {'compsci': {'week': 12}}
       <td>1.00/1.00</td>
       <td>Akshay</td>
       <td>I got a summary of the topic from chat gpt and did some extra research.</td>
-      <td>Google form</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSepHm1GaMhPht17Qm-7ntihi1_4VCFdLPgzjYy2Hlimd4bUwA/viewscore?viewscore=AE0zAgC1V7OugjV5hIEqnDQH3YOdwgxdFrbs7_er7FNgySsaJXQtGRMiov_ifCXjHl67G58">Google form</a></td>
       <td></td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.92/1.00</td>
       <td>Tanuj</td>
       <td>I looked at the team teach and practiced with flash cards.</td>
-      <td>Google form</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbVlNG-KRIOsdhpqm9DBcdtxqDefy9GF1qi4kdIWgvH8bbbg/viewscore?viewscore=AE0zAgB2PZUayteDJVoN03PLmTGAG_15SWcst7P4wDSqB-h3b2HFgb-QwfM5ZgXOp7_EgfQ">Google form</a></td>
       <td></td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.98/1.00</td>
       <td>Andrew</td>
       <td>I watched videos, CB and YouTube, and I reviewed the team teach.</td>
-      <td>Google form</td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSciW2h1uQNCS8xZK7GAZO5uliuQh7e_aFesTr3DMs-tZxCXag/viewscore?viewscore=AE0zAgBWKCkFlqtUD0yQOVAciY3QESVGAVm6quGR6BZPcBZgwaBJIOumVjELf4i3EXc-u84">Google form</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSciW2h1uQNCS8xZK7GAZO5uliuQh7e_aFesTr3DMs-tZxCXag/viewscore?viewscore=AE0zAgBWKCkFlqtUD0yQOVAciY3QESVGAVm6quGR6BZPcBZgwaBJIOumVjELf4i3EXc-u84">Safe Computing</a></td>
       <td></td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.83/1.0</td>
       <td>Justin</td>
       <td>no extras</td>
-      <td><a href="https://nighthawkcoders.github.io/teacher_portfolio//2023/12/13/P2_student_UndecidedProblems_IPYNB_2_.html">Undecided Problems</a>
+      <td><a href="https://nighthawkcoders.github.io/teacher_portfolio//2023/12/13/P2_student_UndecidedProblems_IPYNB_2_.html">Undecided Problems</a><a href="https://docs.google.com/forms/d/e/1FAIpQLScdkCjjYFUBdRN9O1icNyhM5hWNue0VzPXlCZ5q3QGGsN_Vsw/viewscore?viewscore=AE0zAgDEhtQbRPIkGwWoLSDyy5ACN_D-EzPq_ToadNtt9jpi987MDrzJn8XJ50ACXA">Google form</a>
 </td>
       <td></td>
     </tr>
