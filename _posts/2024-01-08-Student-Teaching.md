@@ -72,7 +72,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.92/1.00</td>
       <td>Tanuj</td>
       <td>I looked at the team teach and practiced with flash cards.</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbVlNG-KRIOsdhpqm9DBcdtxqDefy9GF1qi4kdIWgvH8bbbg/viewscore?viewscore=AE0zAgB2PZUayteDJVoN03PLmTGAG_15SWcst7P4wDSqB-h3b2HFgb-QwfM5ZgXOp7_EgfQ">Google form</a></td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbVlNG-KRIOsdhpqm9DBcdtxqDefy9GF1qi4kdIWgvH8bbbg/viewscore?viewscore=AE0zAgB2PZUayteDJVoN03PLmTGAG_15SWcst7P4wDSqB-h3b2HFgb-QwfM5ZgXOp7_EgfQ">Google form</a><a href="">Legal and Ethical concerns</a></td>
       <td></td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.98/1.00</td>
       <td>Andrew</td>
       <td>I watched videos, CB and YouTube, and I reviewed the team teach.</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSciW2h1uQNCS8xZK7GAZO5uliuQh7e_aFesTr3DMs-tZxCXag/viewscore?viewscore=AE0zAgBWKCkFlqtUD0yQOVAciY3QESVGAVm6quGR6BZPcBZgwaBJIOumVjELf4i3EXc-u84">Google form</a><a href="https://docs.google.com/forms/d/e/1FAIpQLSciW2h1uQNCS8xZK7GAZO5uliuQh7e_aFesTr3DMs-tZxCXag/viewscore?viewscore=AE0zAgBWKCkFlqtUD0yQOVAciY3QESVGAVm6quGR6BZPcBZgwaBJIOumVjELf4i3EXc-u84">Safe Computing</a></td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSciW2h1uQNCS8xZK7GAZO5uliuQh7e_aFesTr3DMs-tZxCXag/viewscore?viewscore=AE0zAgBWKCkFlqtUD0yQOVAciY3QESVGAVm6quGR6BZPcBZgwaBJIOumVjELf4i3EXc-u84">Google form</a><a href="https://lincolnc2008.github.io/student3//2023/12/21/Safe_computing_IPYNB_2_.html">Safe Computing</a></td>
       <td></td>
     </tr>
     <tr>
