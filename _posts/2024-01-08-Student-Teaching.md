@@ -85,7 +85,7 @@ courses: {'compsci': {'week': 12}}
     </tr>
     <tr>
       <td>CB Quiz</td>
-      <td>1.81/2.00</td>
+      <td>1.81/2.00, 54/66</td>
       <td>Mr. Mortensen</td>
       <td>I used quizlet to study questions similar to what I think would be on there.</td>
       <td></td>
@@ -102,10 +102,10 @@ courses: {'compsci': {'week': 12}}
     </tr>
     <tr>
       <td>Totals</td>
-      <td>Median Score: 92.5%</td>
-      <td>Number complete: 8</td>
+      <td>Median Score: 93%</td>
+      <td>Number complete: 9</td>
       <td>Extra effort count: 7</td>
-      <td>Key tangible assets count:</td>
+      <td>Key tangible assets count:9</td>
       <td></td>
     </tr>
   </tbody>
