@@ -88,7 +88,7 @@ courses: {'compsci': {'week': 12}}
       <td>1.81/2.00, 54/66</td>
       <td>Mr. Mortensen</td>
       <td>I used quizlet to study questions similar to what I think would be on there.</td>
-      <td></td>
+      <td><a href="https://lincolnc2008.github.io/student3//2023/12/20/CB-MC_IPYNB_2_.html">Blog Post</a></td>
       <td></td>
     </tr>
     <tr>
