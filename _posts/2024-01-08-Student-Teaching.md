@@ -24,7 +24,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.92/1</td>
       <td>Ninad</td>
       <td>I reviewed the team teach and did extra research on this topic.</td>
-      <td>Kahoot</td>
+      <td>Kahoot, <a href="">the internet</a></td>
       <td></td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.80/1.0</td>
       <td>Ameer</td>
       <td>no extras</td>
-      <td>Google form</td>
+      <td>Google form, <a href="https://lincolnc2008.github.io/student3//2023/12/04/Beneficial-Harmful-TeamTeach_IPYNB_2_.html">beneficial and harmful effects</a></td>
       <td></td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.95/1.0</td>
       <td>Sergi</td>
       <td>I watched some videos and asked questions about the topic.</td>
-      <td>Google Form, <a href="">digital divide</a></td>
+      <td>Google Form, <a href="https://lincolnc2008.github.io/student3//2023/11/17/Digital-Divide_IPYNB_2_.html">digital divide</a></td>
       <td></td>
     </tr>
     <tr>
