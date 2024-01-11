@@ -48,7 +48,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.95/1.0</td>
       <td>Sergi</td>
       <td>I watched some videos and asked questions about the topic.</td>
-      <td>Google Form</td>
+      <td>Google Form, <a href="">digital divide</a></td>
       <td></td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.93/1.0</td>
       <td>Aditya</td>
       <td>I reviewed the team teach and watched the college board videos.</td>
-      <td><a href="https://nighthawkcoders.github.io/teacher_portfolio//2023/12/11/P2_student_Computing-Bias_IPYNB_2_.html">Computing Bias</a></td>
+      <td><a href="https://nighthawkcoders.github.io/teacher_portfolio//2023/12/11/P2_student_Computing-Bias_IPYNB_2_.html">Computing Bias</a><a href="https://lincolnc2008.github.io/student3//2023/12/11/Computing-Bias-Team-Teach_IPYNB_2_.html">Computing Bias blog</a></td>
       <td></td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ courses: {'compsci': {'week': 12}}
       <td>1.00/1.00</td>
       <td>Akshay</td>
       <td>I got a summary of the topic from chat gpt and did some extra research.</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSepHm1GaMhPht17Qm-7ntihi1_4VCFdLPgzjYy2Hlimd4bUwA/viewscore?viewscore=AE0zAgC1V7OugjV5hIEqnDQH3YOdwgxdFrbs7_er7FNgySsaJXQtGRMiov_ifCXjHl67G58">Google form</a></td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSepHm1GaMhPht17Qm-7ntihi1_4VCFdLPgzjYy2Hlimd4bUwA/viewscore?viewscore=AE0zAgC1V7OugjV5hIEqnDQH3YOdwgxdFrbs7_er7FNgySsaJXQtGRMiov_ifCXjHl67G58">Google form</a><a href="https://lincolnc2008.github.io/student3//2023/12/05/crowdsourcing_IPYNB_2_.html">Crowdsourcing</a></td>
       <td></td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.92/1.00</td>
       <td>Tanuj</td>
       <td>I looked at the team teach and practiced with flash cards.</td>
-      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbVlNG-KRIOsdhpqm9DBcdtxqDefy9GF1qi4kdIWgvH8bbbg/viewscore?viewscore=AE0zAgB2PZUayteDJVoN03PLmTGAG_15SWcst7P4wDSqB-h3b2HFgb-QwfM5ZgXOp7_EgfQ">Google form</a><a href="">Legal and Ethical concerns</a></td>
+      <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdbVlNG-KRIOsdhpqm9DBcdtxqDefy9GF1qi4kdIWgvH8bbbg/viewscore?viewscore=AE0zAgB2PZUayteDJVoN03PLmTGAG_15SWcst7P4wDSqB-h3b2HFgb-QwfM5ZgXOp7_EgfQ">Google form</a><a href="https://lincolnc2008.github.io/student3//2023/12/18/Legal-Ethical-Concerns_IPYNB_2_.html">Legal and Ethical concerns</a></td>
       <td></td>
     </tr>
     <tr>
