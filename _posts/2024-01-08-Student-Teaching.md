@@ -24,7 +24,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.92/1</td>
       <td>Ninad</td>
       <td>I reviewed the team teach and did extra research on this topic.</td>
-      <td>Kahoot, <a href="">the internet</a></td>
+      <td>Kahoot, <a href="https://lincolnc2008.github.io/student3//2023/11/27/Internet_IPYNB_2_.html">the internet</a></td>
       <td></td>
     </tr>
     <tr>
