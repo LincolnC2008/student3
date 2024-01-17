@@ -32,7 +32,7 @@ courses: {'compsci': {'week': 12}}
       <td>0.95/1.0</td>
       <td>Team</td>
       <td>I watched the first college board video, did popcorn hack 1, and wrote the first bit of the lesson whilst helping Gurshawn.</td>
-      <td>Team Teach</td>
+      <td><a href="https://dantea-tech.github.io/GLADV2//2023/08/17/Routing-And-Computing-copy_IPYNB_2_.html">Team Teach</a></td>
       <td></td>
     </tr>
     <tr>
