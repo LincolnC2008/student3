@@ -5,7 +5,7 @@ layout: post
 title: Student teach table
 description: false
 type: tangibles
-courses: {'compsci': {'week': 12}}
+courses: {'compsci': {'week': 18}}
 ---
 
 <table border="1">
