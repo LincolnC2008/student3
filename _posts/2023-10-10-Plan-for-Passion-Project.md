@@ -46,7 +46,8 @@ At the onset of each week, we will convene for Scrum meetings. These sessions wi
 Our passion project aims not only to showcase our skills but also to provide an immersive gaming experience for players. Through meticulous planning, transparent communication, and diligent testing, we are committed to delivering a multiplayer fighting game that leaves a lasting impression.
 
 ## Flow Chart
-![]({{site.baseurl}}/images/Flow-Chart.jpg)
+![](
+    /images/Flow-Chart.jpg)
 
 ————
 
